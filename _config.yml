@@ -108,12 +108,12 @@ author:
   location         : "Republic of Korea"
   email            :
   links:
-    - label: "soobark97@naver.com"
+    - label: "E-mail"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:soobark97@naver.com"
-    - label: "Website"
+    - label: "Main Tistory Blog"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://luminitworld.tistory.com"
     #- label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -286,6 +286,7 @@ defaults:
       author_profile: true
       sidebar:
         nav: sidebar
+      show_date: true
 
   # _posts
   - scope:
@@ -300,4 +301,5 @@ defaults:
       related: true
       sidebar:
         nav: sidebar
+      show_date: true
 

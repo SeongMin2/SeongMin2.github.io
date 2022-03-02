@@ -3,7 +3,7 @@ title: "Markup: HTML Tags and Formatting"
 header:
   teaser: "assets/images/markup-syntax-highlighting-teaser.jpg"
 categories:
-  - Markup
+  - paperreview
 tags:
   - content
   - css
@@ -11,6 +11,7 @@ tags:
   - html
   - markup
 toc: true
+toc_sticky: true
 ---
 
 A variety of common markup showing how the theme styles them.

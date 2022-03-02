@@ -20,15 +20,19 @@ sidebar:
     children:
       - title: "Deeplearning"
         url: /categories/deeplearning/
+        category: "deeplearning"
       - title: "Paper review"
         url: /categories/paperreview/
+        category: "paperreview"
   - title: "CS"
     children:
       - title: "Algorithm"
         url: /categories/algorithm/
+        category: "algorithm"
   - title: "Errors"
     children:
       - title: "Errors"
         url: /categories/errors
+        category: "errors"
     
       
