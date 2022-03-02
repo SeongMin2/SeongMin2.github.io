@@ -138,7 +138,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/SeongMin2/"
+      # url: "https://github.com/SeongMin2/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -277,6 +277,16 @@ compress_html:
 
 # Defaults
 defaults:
+  # default
+  # home layout에 sidebar 설정
+  - scope:
+      path: ""
+    values:
+      layout: home
+      author_profile: true
+      sidebar:
+        nav: sidebar
+
   # _posts
   - scope:
       path: ""
@@ -288,3 +298,6 @@ defaults:
       comments: # true
       share: true
       related: true
+      sidebar:
+        nav: sidebar
+
