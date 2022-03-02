@@ -33,4 +33,4 @@ sidebar:
     children:
       - title: "Errors"
         url: /categories/errors
-        category: "errors"
+        category: "errors" 
