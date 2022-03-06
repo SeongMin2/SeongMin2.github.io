@@ -8,11 +8,9 @@ author_profile: true
 
 ## Contact & Channels
 
----
-
-- **Email** | **soobark97@naver.com**
-- **Github** | **[Github](https://github.com/SeongMin2)**
-- **Blog** | **[Tistory blog](https://luminitworld.tistory.com/)**
+- **Email**  **soobark97@naver.com**
+- **Github**  **[Github](https://github.com/SeongMin2)**
+- **Blog**  **[Tistory blog](https://luminitworld.tistory.com/)**
 
 <br/>
 
@@ -42,14 +40,11 @@ author_profile: true
     - Data science
 
 ### Back-End
-- Java
-    - Spring-boot
+- Java (Spring-boot)
 - Mysql
 
 ### DevOps
-- AWS
-    - EC2
-    - RDS
+- AWS (ECS, RDS)
 - Docker
 - Nginx
 - Linux
@@ -115,7 +110,7 @@ author_profile: true
 
 2021.02.03 ~ 
 
-- 광운대학교 전자통신공학과 최영석 교수님 NeuroAi 학부연구생
+- 광운대학교 전자통신공학과 NeuroAi 학부연구생
 
     - 2021 인공지능 그랜드 챌린지 음성 및 자연어 Track
         - NLP 파트 담당 :폭력 및 비폭력 언어 Classification
