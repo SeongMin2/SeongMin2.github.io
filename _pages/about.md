@@ -107,7 +107,7 @@ author_profile: true
 
 [Github](https://github.com/SeongMin2/COVID-19-Face-mask-detector)  
 2020.09.15 ~ 2020.12.01  
-* [간단한 CNN모델 기반 이미지 classification](https://luminitworld.tistory.com/63?category=964730)
+* **[간단한 CNN모델 기반 이미지 classification](https://luminitworld.tistory.com/63?category=964730)**
     * 학교 실험 수업 자유 프로젝트
     * Python, Tensorflow
 
@@ -143,9 +143,8 @@ author_profile: true
         * NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE
     * 최종 프로젝트
         * 자기소개서 작성 도우미
+            * 데이터 크롤링 및 전처리
             * 어색한 문장 검사
-            * 자소서 문장 추천
-            * 키워드 제공 
 
 ### 광운대학교-파이썬데이터분석가양성과정  
 2021.02.01 ~ 2021.02.05  
