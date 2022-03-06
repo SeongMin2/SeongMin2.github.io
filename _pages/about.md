@@ -172,8 +172,8 @@ author_profile: true
     * [최우수상](/assets/certification/awards/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%81%AC%EB%A6%AC%EC%97%90%EC%9D%B4%ED%84%B0%20%EC%BA%A0%ED%94%84_M1B4_%EC%B5%9C%EC%9A%B0%EC%88%98%EC%83%811.jpg)
     * 2021.10.16
 * **2021 국립국어원 인공지능 언어 능력 평가**
-    * 특별상 (네이버상)
-    * 2021.11.19         
+    * [특별상 (네이버상)](/assets/certification/awards/%EA%B5%AD%EB%A6%BD%EA%B5%AD%EC%96%B4%EC%9B%90%EB%8C%80%ED%9A%8C%EC%83%81%EC%9E%A51.jpg)
+    * 2021.11.19           
 
 <br/>
 
