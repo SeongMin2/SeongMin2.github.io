@@ -131,7 +131,6 @@ author_profile: true
             * 음성과 자연어 멀티모달 감성 분석 담당 
 
 
-
 ### 2021 데이터청년캠퍼스-한국외국어대학교 자연어처리 과정 
 [K-data 한국데이터산업진흥원](https://dataonair.or.kr/bigjob/)  
 2021.06.24 ~ 2021.09.10 &nbsp;&nbsp;&nbsp;&nbsp; [[수료증]](/assets/certification/%EB%8D%B0%EC%B2%AD%EC%BA%A0%EC%88%98%EB%A3%8C%EC%A6%9D1.jpg)   
@@ -170,7 +169,7 @@ author_profile: true
     * [우수상](/assets/certification/awards/%ED%8C%A1%EC%A7%95%EC%96%B4%EA%B2%8C%EC%9E%84%ED%8C%80%EC%83%81%EC%9E%A5.jpg)
     * 2021.10.08
 * **2021 데이터 크리에이터 캠프 대회**
-    * 최우수상
+    * [최우수상](/assets/certification/awards/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%81%AC%EB%A6%AC%EC%97%90%EC%9D%B4%ED%84%B0%20%EC%BA%A0%ED%94%84_M1B4_%EC%B5%9C%EC%9A%B0%EC%88%98%EC%83%811.jpg)
     * 2021.10.16
 * **2021 국립국어원 인공지능 언어 능력 평가**
     * 특별상 (네이버상)
