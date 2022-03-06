@@ -33,7 +33,6 @@ author_profile: true
 ---
 
 ## Machine Learning
-
 - **Pytorch**
 - Tensorflow
 - Domain
@@ -43,13 +42,11 @@ author_profile: true
     - Data science
 
 ## Back-End
-
 - Java
     - Spring-boot
 - Mysql
 
 ## DevOps
-
 - AWS
     - EC2
     - RDS
@@ -58,12 +55,10 @@ author_profile: true
 - Linux
 
 ## Front-End
-
 - Html, CSS, JS
 - Android
 
 ## Communication
-
 - Github
 - Notion
 
@@ -122,7 +117,7 @@ author_profile: true
 
 - 광운대학교 전자통신공학과 최영석 교수님 NeuroAi 학부연구생
 
-    - 2021 인공지능 그랜드 챌린지 음향 및 자연어 파트
+    - 2021 인공지능 그랜드 챌린지 음성 및 자연어 Track
         - NLP 파트 담당 :폭력 및 비폭력 언어 Classification
             - 데이터 전처리 
             - 다양한 모델 및 방법으로 실험
@@ -136,7 +131,7 @@ author_profile: true
 ## 2021 데이터청년캠퍼-한국외국어대학교 자연어처리 과정 
 [K-data 한국데이터산업진흥원](https://dataonair.or.kr/bigjob/)
 
-2021.06.24 ~ 2021.09.
+2021.06.24 ~ 2021.09.10
 
 - **한국데이터산업진흥원**에서 진행하는 머신러닝 자연어처리 개발자 양성 교육 과정
     
