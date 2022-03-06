@@ -4,28 +4,6 @@ layout: single
 permalink: /about/
 author_profile: true
 ---
-
-<style>
-    div.mydiv{
-        width: 100%;
-        overflow: auto;
-    }
-    div.left{
-        width: 38%;
-        float: left;
-    }
-    div.right{
-        width: 62%;
-        float: right;
-    }
-    p.myp{
-        margin-top: 2em;
-        margin-bottom: 0.5em;
-        font-size: 1.2em;
-    }
-
-</style>
-
 # 이성민 | 꾸준히 성장하는 개발자
 
 ## Contact & Channels
