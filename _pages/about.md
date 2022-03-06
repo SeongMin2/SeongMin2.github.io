@@ -32,7 +32,7 @@ author_profile: true
 
 ---
 
-## Machine Learning
+### Machine Learning
 - **Pytorch**
 - Tensorflow
 - Domain
@@ -41,12 +41,12 @@ author_profile: true
     - Image
     - Data science
 
-## Back-End
+### Back-End
 - Java
     - Spring-boot
 - Mysql
 
-## DevOps
+### DevOps
 - AWS
     - EC2
     - RDS
@@ -54,11 +54,11 @@ author_profile: true
 - Nginx
 - Linux
 
-## Front-End
+### Front-End
 - Html, CSS, JS
 - Android
 
-## Communication
+### Communication
 - Github
 - Notion
 
@@ -69,7 +69,7 @@ author_profile: true
 ---
 ( 정리중.... )
 
-## 2021 국립국어원 인공지능 언어 능력 평가
+### 2021 국립국어원 인공지능 언어 능력 평가
 
 [Github]
 
@@ -82,7 +82,7 @@ author_profile: true
     - 문장 문법성 판단, 동형이의어 구별, 인과 관계 추론, 판정의문문
     - Python, Pytorch, Docker
 
-## '오늘의 집' 모의 서버 개발
+### '오늘의 집' 모의 서버 개발
 
 [Github](https://github.com/SeongMin2/Today_House_12th_Lumin)
 
@@ -93,7 +93,7 @@ author_profile: true
     - Back-end
     - Java, Spring-boot, Nginx, AWS, MySQL, Linux
 
-## 딥러닝 모델을 활용한 마스크 착용 여부 판단
+### 딥러닝 모델을 활용한 마스크 착용 여부 판단
 
 [Github](https://github.com/SeongMin2/COVID-19-Face-mask-detector)
 
@@ -109,7 +109,7 @@ author_profile: true
 
 ---
 
-## 광운대학교 NeuroAI 학부연구생
+### 광운대학교 NeuroAI 학부연구생
 
 [연구실 홈페이지](https://sites.google.com/view/neuroailab/home)
 
@@ -128,7 +128,7 @@ author_profile: true
 
 
 
-## 2021 데이터청년캠퍼-한국외국어대학교 자연어처리 과정 
+### 2021 데이터청년캠퍼-한국외국어대학교 자연어처리 과정 
 [K-data 한국데이터산업진흥원](https://dataonair.or.kr/bigjob/)
 
 2021.06.24 ~ 2021.09.10
@@ -146,7 +146,7 @@ author_profile: true
             - 자소서 문장 추천
             - 키워드 제공 
 
-## 광운대학교-파이썬데이터분석가양성과정
+### 광운대학교-파이썬데이터분석가양성과정
 
 2021.02.01 ~ 2021.02.05
 
@@ -154,7 +154,7 @@ author_profile: true
     - Data관련 Python library 학습
     - Web상 Data Scrapping 및 Crwaling
 
-## SoftSquared (Server)
+### SoftSquared (Server)
 
 2021.01.23 ~ 2021.03.26
 
