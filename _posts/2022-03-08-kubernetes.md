@@ -1,5 +1,5 @@
 ---
-title: "쿠버네티스"
+title: "쿠버네티스 (Kubernetes)"
 categories:
   - mlops
 excerpt: "About kubernetes"
