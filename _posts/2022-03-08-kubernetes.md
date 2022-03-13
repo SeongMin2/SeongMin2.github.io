@@ -79,6 +79,15 @@ toc_sticky: true
 클러스터는 여러 노드를 실행하므로
 내결함성과 고가용성이 제공됨
 
+
+### 서비스
+* Pod 집합에서 실행중인 애플리케이션을 네트워크 서비스로 노출하는 추상화 방법
+* 쿠버네티스는 pod에게 고유한 IP 주소와 pod 집합에 대한 단일 DNS명을 부여하고, 그것들 간에 Load-Balancing을 수행할 수 있음
+    * Load-Balancing
+        * 컴퓨터 네트워크 기술의 일종으로 둘 혹은 셋 이상의 중앙처리장치 혹은 저장장치와 같은 컴퓨터 자원들에게 작업을 나누는 것을 의미함
+        * 여러 서버가 분산 처리 하는것을 말함
+
+
 참조 : 
 
 [https://kubernetes.io/ko/docs/concepts/overview/what-is-kubernetes/](https://kubernetes.io/ko/docs/concepts/overview/what-is-kubernetes/)  
@@ -86,3 +95,5 @@ toc_sticky: true
 [https://www.44bits.io/ko/keyword/linux-container](https://www.44bits.io/ko/keyword/linux-container)  
 
 [https://www.redhat.com/ko/topics/containers/whats-a-linux-container](https://www.redhat.com/ko/topics/containers/whats-a-linux-container)
+
+[https://dev.classmethod.jp/articles/load-balancing-types-and-algorithm/](https://dev.classmethod.jp/articles/load-balancing-types-and-algorithm/)
