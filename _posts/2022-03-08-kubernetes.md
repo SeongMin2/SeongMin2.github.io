@@ -102,7 +102,7 @@ toc_sticky: true
 * Pod와 Replicaset에 대한 선언과 업데이트를 관리해주는 모듈  
 -> pod와 Replicaset을 효율적으로 관리하기 위한 모듈
     * Replicaset  
-        : 동일 pod에 대한 가용성을 안정적으로 보장받기 위한 모듈
+        * 동일 pod에 대한 가용성을 안정적으로 보장받기 위한 모듈
 
 
 ### Job
