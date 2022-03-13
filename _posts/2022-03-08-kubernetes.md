@@ -67,8 +67,14 @@ toc_sticky: true
     - 컨테이너화된 애플리케이션을 실행함
     - 모든 클러스터는 최소 한 개의 워커노드를 가짐
     - 워커 노드는 애플리케이션의 구성요소인 파드를 호스트함
+    - 개별 하드웨어를 지칭함
+    
 - **Pod**
-    - 클러스터에 실행 중인 컨테이너를 말함
+    - Linux 컨테이너를 하나 이상 모아놓은 것
+    - 클러스터에 실행 중인 컨테이너를 말하며, 쿠버네티스 애플리케이션의 최소 단위
+    - 쿠버네티스에서 공유 리소스를 나타내는 하나의 집합
+    - 쿠버네티스는 직접 컨테이너를 실행하지 않고, 그 대신 pod를 실행하면서, pod속의 각 컨테이너가 동일한 리소스 및 로컬 네트워크를 공유하게 함  
+    -> **컨테이너를 이와 같이 그룹화하면 실제로는 어느 정도 분리된 상태더라도 마치 동일한 물리 하드웨어를 공유하는 것처럼 컨테이너끼리 서로 통신할 수 있게 됨**
 - **Control Plane**
     - 컨테이너의 라이프사이클을 정의, 배포, 관리하기 위한 API와 인터페이스들을 노출하는
     컨테이너 오케스트레이션 레이어를 말함
@@ -80,12 +86,21 @@ toc_sticky: true
 내결함성과 고가용성이 제공됨
 
 
-### 서비스
+### 서비스 (Service)
 * Pod 집합에서 실행중인 애플리케이션을 네트워크 서비스로 노출하는 추상화 방법
 * 쿠버네티스는 pod에게 고유한 IP 주소와 pod 집합에 대한 단일 DNS명을 부여하고, 그것들 간에 Load-Balancing을 수행할 수 있음
     * Load-Balancing
         * 컴퓨터 네트워크 기술의 일종으로 둘 혹은 셋 이상의 중앙처리장치 혹은 저장장치와 같은 컴퓨터 자원들에게 작업을 나누는 것을 의미함
         * 여러 서버가 분산 처리 하는것을 말함
+
+
+### Deployment
+* Pod와 Replicaset에 대한 선언과 업데이트를 관리해주는 모듈  
+-> pod와 Replicaset을 효율적으로 관리하기 위한 모듈
+    * Replicaset  
+        : 동일 pod에 대한 가용성을 안정적으로 보장받기 위한 모듈
+
+
 
 
 참조 : 
@@ -97,3 +112,5 @@ toc_sticky: true
 [https://www.redhat.com/ko/topics/containers/whats-a-linux-container](https://www.redhat.com/ko/topics/containers/whats-a-linux-container)
 
 [https://dev.classmethod.jp/articles/load-balancing-types-and-algorithm/](https://dev.classmethod.jp/articles/load-balancing-types-and-algorithm/)
+
+[https://huisam.tistory.com/entry/k8s-deployment](https://huisam.tistory.com/entry/k8s-deployment)
