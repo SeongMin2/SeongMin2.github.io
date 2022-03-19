@@ -32,7 +32,7 @@ toc_sticky: true
 
 이러한 여러 components중 workflow를 담당하는 pipeline에 대해 알아보자
 
-# Kubeflow-pipeline
+## Kubeflow-pipeline
 
 ### Definition
 
