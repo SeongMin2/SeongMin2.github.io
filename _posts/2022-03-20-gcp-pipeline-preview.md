@@ -1,4 +1,3 @@
-
 ---
 title: "GCP Ai platform pipeline 배포 및 instance에서 SDK 연결 개요"
 categories:
