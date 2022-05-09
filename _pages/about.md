@@ -62,7 +62,6 @@ author_profile: true
 # 💻  Projects
 
 ---
-( 정리중.... )
 
 ### 2021 국립국어원 인공지능 언어 능력 평가
 [Github]  
