@@ -98,10 +98,11 @@ author_profile: true
 [연구실 홈페이지](https://sites.google.com/view/neuroailab/home)  
 2021.02.03 ~  
 * **광운대학교 전자통신공학과 NeuroAi 학부연구생**  
-    * **2021 인공지능 그랜드 챌린지 음성 및 자연어 Track**
+    * **2021 인공지능 그랜드 챌린지 음성 4차 대회 트랙 3 (음성 및 자연어)**
         * NLP 파트 담당 :폭력 및 비폭력 언어 Classification
             * 데이터 전처리 
             * 다양한 모델 및 방법으로 실험
+        * Ranking 4th &nbsp;&nbsp; [[최종 순위]](/assets/certification/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_%EA%B7%B8%EB%9E%9C%EB%93%9C_%EC%B1%8C%EB%A6%B0%EC%A7%80_4%EC%B0%A8%EB%8C%80%ED%9A%8C_%ED%8A%B8%EB%9E%992_3%EB%8B%A8%EA%B3%84_%EC%84%B1%EC%A0%81_%EC%95%88%EB%82%B4_NeuroAI.jpg)
     * **과학기술정보통신부 연구 과제** (진행중) 
         * 파편화된 데이터의 적극 활용을 위한 시계열 기반 통합 플랫폼 기술 개발 연구원
         * 사람 중심의 멀티모달 시계열 및 반시계열 데이터 통합 기술
