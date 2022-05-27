@@ -168,5 +168,5 @@ author_profile: true
 <br/>
 <br/>
 
-![image](/assets/icon/dobby_img25.png)
-언젠가 잠시라도 양말을 받을 그 날까지...!
+<!--![image](/assets/icon/dobby_img25.png)
+언젠가 잠시라도 양말을 받을 그 날까지...! -->
